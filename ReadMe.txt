@@ -1,0 +1,3 @@
+This is the readme for my New_Repo
+Just kind of testing the waters with Git Hub.....
+5/7/15
